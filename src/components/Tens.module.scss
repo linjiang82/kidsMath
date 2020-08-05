@@ -1,0 +1,14 @@
+.layout {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90px;
+  height: 120px;
+  border: 1px grey solid;
+  margin: 5px auto;
+  justify-content: center;
+}
+.each {
+  width: 28px;
+  height: 28px;
+  margin: 0 auto;
+}
